@@ -1,4 +1,5 @@
 This program constructs binary search trees with concurrent access. This is coded in and java 7 is required to run this program.
+This code was intended as an assignment for my multicore programming class, but i have changed it since then. 
 
 How to run:
 
